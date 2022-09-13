@@ -1,3 +1,8 @@
+Title of the Project :
 guessinggame
-Mon Sep 12 11:14:54 EDT 2022
-      46 guessinggame.sh
+
+Date and Time at which make was run
+Mon Sep 12 20:25:40 EDT 2022
+
+Number of lines of code contained in guessinggame.sh
+46
