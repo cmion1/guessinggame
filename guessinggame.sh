@@ -1,5 +1,5 @@
 #!/usr/bin/env bash #guessinggame.sh #author : Christophe Mion
-count=$(ls -1 | wc -l)
+cd ~/Downloads/ && count=$(ls -1 | wc -l)
 while [[ $count -gt 0 ]]; do
 sleep 1 && clear && cat << "ART"
 _____                     _               _____
